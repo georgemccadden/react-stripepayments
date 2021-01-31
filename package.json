@@ -1,0 +1,26 @@
+{
+  "name": "donut-checkout",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/css": "^11.1.3",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@stripe/react-stripe-js": "^1.2.1",
+    "@stripe/stripe-js": "^1.11.0",
+    "axios": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-confetti": "latest",
+    "react-dom": "latest",
+    "stripe": "latest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
